@@ -13,4 +13,4 @@ Markdoc uses a fully declarative approach to composition and flow control, where
 - [Install Markdoc](/docs/getting-started)
 - [Explore the syntax](/docs/syntax)
 
-测试 hello,123456
+测试 git 功能
